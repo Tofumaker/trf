@@ -1,1 +1,1 @@
-web: gunicorn ycp.wsgi --log-file -
+web: gunicorn trf-production.wsgi --log-file -
