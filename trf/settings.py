@@ -23,7 +23,7 @@ STATIC_ROOT = 'staticfiles'
 SECRET_KEY = '=#43(!=w+3o3h@y+!3=7j&cv!#wodwibuv1y7iu2fik)_qb49t'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['*']
 
