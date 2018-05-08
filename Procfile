@@ -1,1 +1,1 @@
-web: cd server; gunicorn winterline.wsgi -w $NUM_WORKERS --log-file -
+web: gunicorn ycp.wsgi --log-file -
